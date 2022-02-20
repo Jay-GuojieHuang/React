@@ -1,2 +1,2 @@
 # React
-My first React repository
+The React repository is used for learning
